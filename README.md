@@ -7,3 +7,5 @@ The projects is related to
 * Machine Learning
 * Computer Vision
 * Natural Language Processing
+
+Still ongoing
